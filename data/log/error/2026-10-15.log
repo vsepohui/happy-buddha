@@ -204,3 +204,12 @@
   #9 /home/trunaev/work/happy-buddha/inc/init.php(246): auth_setup()
   #10 /home/trunaev/work/happy-buddha/lib/exe/mediamanager.php(11): require_once('...')
   #11 {main}
+2026-10-15 21:16:35	/home/trunaev/work/happy-buddha/inc/init.php(246)	Error: Call to undefined function auth_setup()
+  #0 /home/trunaev/work/happy-buddha/doku.php(38): require_once()
+  #1 {main}
+2026-10-15 21:16:43	/home/trunaev/work/happy-buddha/inc/init.php(246)	Error: Call to undefined function auth_setup()
+  #0 /home/trunaev/work/happy-buddha/doku.php(38): require_once()
+  #1 {main}
+2026-10-15 21:16:43	/home/trunaev/work/happy-buddha/inc/init.php(246)	Error: Call to undefined function auth_setup()
+  #0 /home/trunaev/work/happy-buddha/doku.php(38): require_once()
+  #1 {main}
