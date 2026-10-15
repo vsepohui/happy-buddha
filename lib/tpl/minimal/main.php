@@ -20,7 +20,18 @@ $showSidebar = page_findnearest($conf['sidebar']) && ($ACT=='show');
   lang="<?php echo $conf['lang'] ?>" dir="<?php echo $lang['direction'] ?>" class="no-js">
 <head>
     <meta charset="UTF-8" />
-    <title><?php $_uri = urldecode($_SERVER['REQUEST_URI']);  $_uri = preg_replace("/\/(.*)\?.*$/", "$1", $_uri); $_uri = preg_replace("/_/", " ", $_uri);  $_uri_parts = preg_split("/\//", $_uri); $_uri_parts = array_reverse($_uri_parts); echo implode(" :: ", $_uri_parts) ?> :: <?php echo strip_tags($conf['title']) ?></title>
+    <title><?php 
+		$_uri = urldecode($_SERVER['REQUEST_URI']); 
+		if ($_uri == '/welcome') {
+			echo strip_tags($conf['title']);
+		} else {
+			$_uri = preg_replace("/\/(.*)\?.*$/", "$1", $_uri);
+			$_uri = preg_replace("/_/", " ", $_uri); 
+			$_uri_parts = preg_split("/\//", $_uri);
+			$_uri_parts = array_reverse($_uri_parts);
+			echo implode(" :: ", $_uri_parts);
+			echo strip_tags($conf['title']);
+		} ?></title>
     <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
     <?php tpl_metaheaders() ?>
     <meta name="viewport" content="width=device-width,initial-scale=1" />

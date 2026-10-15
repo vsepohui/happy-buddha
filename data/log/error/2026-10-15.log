@@ -375,3 +375,9 @@
   #1 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
   #2 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
   #3 {main}
+2026-10-15 22:27:12	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(33)	ParseError: syntax error, unexpected token "echo", expecting "," or ";"
+  #0 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #1 {main}
+2026-10-15 22:27:22	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(35)	ParseError: Unmatched '}'
+  #0 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #1 {main}
