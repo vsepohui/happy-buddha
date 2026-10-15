@@ -178,3 +178,16 @@
   #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
   #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
   #4 {main}
+2026-10-15 19:22:53	/home/trunaev/work/happy-buddha/vendor/phpseclib/phpseclib/phpseclib/Crypt/Common/SymmetricKey.php(2600)	phpseclib3\Exception\BadDecryptionException: The ciphertext has an invalid padding length (133) compared to the block size (16)
+  #0 /home/trunaev/work/happy-buddha/vendor/phpseclib/phpseclib/phpseclib/Crypt/Common/SymmetricKey.php(1666): phpseclib3\Crypt\Common\SymmetricKey->unpad()
+  #1 /home/trunaev/work/happy-buddha/vendor/phpseclib/phpseclib/phpseclib/Crypt/Rijndael.php(1044): phpseclib3\Crypt\Common\SymmetricKey->decrypt()
+  #2 /home/trunaev/work/happy-buddha/inc/auth.php(499): phpseclib3\Crypt\Rijndael->decrypt()
+  #3 /home/trunaev/work/happy-buddha/inc/auth.php(353): auth_decrypt()
+  #4 /home/trunaev/work/happy-buddha/inc/auth.php(259): auth_login()
+  #5 [internal function]: auth_login_wrapper()
+  #6 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(134): call_user_func_array()
+  #7 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #8 /home/trunaev/work/happy-buddha/inc/auth.php(121): dokuwiki\Extension\Event::createAndTrigger()
+  #9 /home/trunaev/work/happy-buddha/inc/init.php(246): auth_setup()
+  #10 /home/trunaev/work/happy-buddha/doku.php(38): require_once('...')
+  #11 {main}
