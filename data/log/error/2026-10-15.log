@@ -213,3 +213,165 @@
 2026-10-15 21:16:43	/home/trunaev/work/happy-buddha/inc/init.php(246)	Error: Call to undefined function auth_setup()
   #0 /home/trunaev/work/happy-buddha/doku.php(38): require_once()
   #1 {main}
+2026-10-15 22:14:45	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:14:45	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:14:45	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:14:56	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:14:56	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:14:56	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:14:57	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:14:57	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:14:57	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:15:07	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:15:07	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:15:25	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:15:26	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:15:26	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:15:26	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:15:27	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:15:27	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:15:27	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:15:27	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): No ending delimiter '^' found
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:15:39	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): Delimiter must not be alphanumeric, backslash, or NUL byte
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:15:40	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): Delimiter must not be alphanumeric, backslash, or NUL byte
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:15:55	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: preg_replace(): Delimiter must not be alphanumeric, backslash, or NUL byte
+  #0 [internal function]: dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): preg_replace()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 22:17:04	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: Undefined variable $1
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #2 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #3 {main}
+2026-10-15 22:17:05	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: Undefined variable $1
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #2 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #3 {main}
+2026-10-15 22:17:05	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: Undefined variable $1
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #2 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #3 {main}
+2026-10-15 22:17:06	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: Undefined variable $1
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #2 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #3 {main}
+2026-10-15 22:17:06	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: Undefined variable $1
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #2 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #3 {main}
+2026-10-15 22:17:06	/home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23)	E_WARNING: Undefined variable $1
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(23): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #2 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #3 {main}
