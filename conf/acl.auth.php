@@ -8,3 +8,5 @@
 # Date: Thu, 15 Oct 2026 16:36:14 +0000
 *               @ALL          1
 *               @user         8
+playground:*	@ALL	0
+wiki:*	@ALL	0
