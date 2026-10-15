@@ -74,7 +74,7 @@ $showSidebar = page_findnearest($conf['sidebar']) && ($ACT=='show');
 
             <?php endif ?>
             <div class="page-menu menu">
-                <div class="button"><span><?=tpl_getLang('page')?></span></div>
+                <div class="button"><span>Страница</span></div>
                   <div class="list">
                 <?=(new \dokuwiki\Menu\PageMenu())->getListItems()?>
                 </div>
@@ -82,7 +82,7 @@ $showSidebar = page_findnearest($conf['sidebar']) && ($ACT=='show');
             <?php endif?>
             <?php if(sizeof((new \dokuwiki\Menu\SiteMenu())->getItems())>0):?>
             <div class="site-menu menu">
-                <div class="button"><span><?=tpl_getLang('site')?></span></div>
+                <div class="button"><span>Сайт</span></div>
                   <div class="list">
                   <?=(new \dokuwiki\Menu\SiteMenu())->getListItems()?>    
                 </div>
@@ -90,7 +90,7 @@ $showSidebar = page_findnearest($conf['sidebar']) && ($ACT=='show');
             <?php endif?>
             <?php if(sizeof((new \dokuwiki\Menu\UserMenu())->getItems())>0):?>
             <div class="user-menu menu">
-            <div class="button"><span><?=tpl_getLang('user')?></span></div>
+            <div class="button"><span>Пользователь</span></div>
             <div class="list">
                 <?php if($USERINFO):?>
                 <div class="user-name"><?=$USERINFO['name']?></div>
