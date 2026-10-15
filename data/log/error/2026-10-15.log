@@ -1,0 +1,180 @@
+2026-10-15 17:59:18	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156)	E_WARNING: Undefined variable $textonly
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(67): _tpl_output_page_tools()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:18	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181)	E_WARNING: Undefined variable $autocomplete
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:18	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187)	E_WARNING: Undefined variable $ajax
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:22	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156)	E_WARNING: Undefined variable $textonly
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(67): _tpl_output_page_tools()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:22	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181)	E_WARNING: Undefined variable $autocomplete
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:22	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187)	E_WARNING: Undefined variable $ajax
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:27	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156)	E_WARNING: Undefined variable $textonly
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(67): _tpl_output_page_tools()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:27	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181)	E_WARNING: Undefined variable $autocomplete
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:27	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187)	E_WARNING: Undefined variable $ajax
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:49	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156)	E_WARNING: Undefined variable $textonly
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(67): _tpl_output_page_tools()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:49	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181)	E_WARNING: Undefined variable $autocomplete
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:49	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187)	E_WARNING: Undefined variable $ajax
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:52	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156)	E_WARNING: Undefined variable $textonly
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(67): _tpl_output_page_tools()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:52	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181)	E_WARNING: Undefined variable $autocomplete
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:52	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187)	E_WARNING: Undefined variable $ajax
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:53	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156)	E_WARNING: Undefined variable $textonly
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(67): _tpl_output_page_tools()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:53	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181)	E_WARNING: Undefined variable $autocomplete
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:53	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187)	E_WARNING: Undefined variable $ajax
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:55	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156)	E_WARNING: Undefined variable $textonly
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(67): _tpl_output_page_tools()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:55	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181)	E_WARNING: Undefined variable $autocomplete
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 17:59:55	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187)	E_WARNING: Undefined variable $ajax
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 18:00:05	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156)	E_WARNING: Undefined variable $textonly
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(67): _tpl_output_page_tools()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 18:00:05	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181)	E_WARNING: Undefined variable $autocomplete
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 18:00:05	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187)	E_WARNING: Undefined variable $ajax
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 18:00:11	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156)	E_WARNING: Undefined variable $textonly
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(67): _tpl_output_page_tools()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 18:00:11	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181)	E_WARNING: Undefined variable $autocomplete
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 18:00:11	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187)	E_WARNING: Undefined variable $ajax
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 18:00:18	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156)	E_WARNING: Undefined variable $textonly
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(156): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(67): _tpl_output_page_tools()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 18:00:18	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181)	E_WARNING: Undefined variable $autocomplete
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(181): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
+2026-10-15 18:00:18	/home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187)	E_WARNING: Undefined variable $ajax
+  #0 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/tpl_functions.php(187): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/lib/tpl/dokubootstrapsimplified/main.php(72): _tpl_output_search_bar()
+  #2 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #3 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #4 {main}
