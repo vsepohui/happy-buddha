@@ -26,3 +26,4 @@ $conf['fnencode'] = 'utf-8';
 $conf['hidewarnings'] = 1;
 $conf['plugin']['indexmenu']['skip_index'] = '/^\\%D0\\%A0/';
 $conf['plugin']['pagetitle']['usePersistent'] = '1';
+$conf['remote'] = 0;
