@@ -139,7 +139,8 @@ function cleanID($raw_id, $ascii = false)
         $sepcharpat = '#\\' . $sepchar . '+#';
 
     $id = trim((string)$raw_id);
-    $id = PhpString::strtolower($id);
+    #$id = PhpString::strtolower($id);
+    
 
     //alternative namespace seperator
     if ($conf['useslash']) {
