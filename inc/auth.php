@@ -1,4 +1,4 @@
-<?php
+?php
 
 /**
  * Authentication library
@@ -218,9 +218,9 @@ function auth_tokenlogin()
     }
 
     // check x-dokuwiki-token header
-    if (isset($headers['x-dokuwiki-token'])) {
-        $token = $headers['x-dokuwiki-token'];
-    }
+//    if (isset($headers['x-dokuwiki-token'])) {
+//        $token = $headers['x-dokuwiki-token'];
+//    }
 
     if (empty($token)) return false;
 
