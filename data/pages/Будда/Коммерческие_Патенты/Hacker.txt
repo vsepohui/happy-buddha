@@ -3,10 +3,13 @@
 Hacker - это инновационное приложение, помогающее синтезировать электронную музыку на ЭВМ!
 
 Скачать приложение - https://github.com/vsepohui/Hacker
+
 Старый архив кода - https://github.com/vsepohui/Hacker-archive-001
+
 Мои проекты на Hacker - https://github.com/vsepohui/Hacker-Projects/
 
 Пример одной из лучших композиций, созданных мною на Hacker:
+
 {{ :undefined:yahwe_syphony_piano_long_v3.mp3 }}
 
 
