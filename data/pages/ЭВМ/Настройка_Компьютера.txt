@@ -9,4 +9,15 @@
 
 Рабочее Окружение - это набор системных и служебных приложений, включая “ядра”, такие как - пользовательская оболочка экрана! 
 
-https://opiate-lepicure.ru/strong/books/19/shrimad-bkhagavatam--tom-2--perevod-ot-ivana-trunaeva-/96
+**1.12.27**
+
+  - Если аппаратная часть ЭВМ повреждена,
+  - То полноценно работать за машиной - уже не получится!
+
+Комментарий Специалиста:
+
+Все приложения на ЭВМ работают так, что взаимодействуют с аппаратной составляющей, а если она - повреждена, то скорее всего - будут сбои в работе программ. 
+
+
+  - https://opiate-lepicure.ru/strong/books/19/shrimad-bkhagavatam--tom-2--perevod-ot-ivana-trunaeva-/96
+  - https://opiate-lepicure.ru/strong/books/19/shrimad-bkhagavatam--tom-2--perevod-ot-ivana-trunaeva-/97
