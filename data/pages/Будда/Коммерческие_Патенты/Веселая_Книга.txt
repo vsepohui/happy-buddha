@@ -2,6 +2,6 @@
 
 Веселая Книга - это как раз эта самая книга, которую вы сейчас читаете! 
 
-Книга доступна по web-адресу - https://happy-buddha.ru
+Книга доступна по URL - https://happy-buddha.ru
 
 Книга собрана на приложении [[https://www.dokuwiki.org/|DokuWiki]], а исходный код доступен для всех - https://github.com/vsepohui/happy-buddha/
