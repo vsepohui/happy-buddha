@@ -18,6 +18,16 @@
 
 Все приложения на ЭВМ работают так, что взаимодействуют с аппаратной составляющей, а если она - повреждена, то скорее всего - будут сбои в работе программ. 
 
+**1.13.2**
+
+  - Если вы работаете с ЭВМ, и не вводите с клавиатуры, либо других устройств,
+  - Ваших персональных данных, то Компьютер - считай, что - не ваш!
+
+Комментарий:
+
+Если вы так не делали - то лучше всего исправить!
+
 
   - https://opiate-lepicure.ru/strong/books/19/shrimad-bkhagavatam--tom-2--perevod-ot-ivana-trunaeva-/96
   - https://opiate-lepicure.ru/strong/books/19/shrimad-bkhagavatam--tom-2--perevod-ot-ivana-trunaeva-/97
+  - https://opiate-lepicure.ru/strong/books/19/shrimad-bkhagavatam--tom-2--perevod-ot-ivana-trunaeva-/106
