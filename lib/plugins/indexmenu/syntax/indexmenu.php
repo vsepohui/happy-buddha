@@ -851,8 +851,10 @@ class syntax_plugin_indexmenu_indexmenu extends SyntaxPlugin
             if ($markCurrentPage) {
                 $ret .= '<span class="curid">';
             }
+            $title = $item['title'];
+            $title = str_replace('_', ' ', $title);
             $ret .= '<a href="' . wl($link, $more) . '" class="' . $tagid . '" data-wiki-id="'. $item['hns'] . '">'
-                . $item['title']
+                . $title
                 . '</a>';
             if ($markCurrentPage) {
                 $ret .= '</span>';
