@@ -8,7 +8,7 @@ Hacker - это инновационное приложение, помогаю�
 
 Мои проекты на Hacker - https://github.com/vsepohui/Hacker-Projects/
 
-Пример одной из лучших композиций, созданных мною на Hacker:
+Пример одной из лучших композиций, созданных мною на Hacker - Yahwe Symphony [piano long v3]:
 
 {{ :undefined:yahwe_syphony_piano_long_v3.mp3 }}
 
