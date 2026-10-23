@@ -17,3 +17,323 @@
   #15 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
   #16 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
   #17 {main}
+2026-10-23 22:32:03	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:03	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:03	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:03	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:07	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:07	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:07	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:07	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:16	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:16	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:19	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:19	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:19	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:19	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:19	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:19	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:26	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:26	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:26	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:26	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:35	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:35	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:35	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:35	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:38	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:38	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:38	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:38	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:42	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:42	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
+2026-10-23 22:32:42	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/actions.php(25): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #7 {main}
+2026-10-23 22:32:42	/home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21)	E_WARNING: Undefined array key "do"
+  #0 /home/trunaev/work/happy-buddha/lib/plugins/robot404/action.php(21): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/trunaev/work/happy-buddha/inc/Extension/EventHandler.php(80): action_plugin_robot404->handle_header()
+  #2 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #3 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #4 /home/trunaev/work/happy-buddha/inc/Extension/Event.php(200): dokuwiki\Extension\Event->trigger()
+  #5 /home/trunaev/work/happy-buddha/inc/template.php(397): dokuwiki\Extension\Event::createAndTrigger()
+  #6 /home/trunaev/work/happy-buddha/lib/tpl/minimal/main.php(36): tpl_metaheaders()
+  #7 /home/trunaev/work/happy-buddha/inc/actions.php(33): include('...')
+  #8 /home/trunaev/work/happy-buddha/doku.php(131): act_dispatch()
+  #9 {main}
