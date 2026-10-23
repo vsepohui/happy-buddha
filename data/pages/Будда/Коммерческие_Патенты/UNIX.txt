@@ -15,5 +15,6 @@
   - make
   - gcc
   - cpan-minus
+  - cron
   - Мой проект [[Crypter-Tools|Crypter-Tools]]
   - Мой проект [[Hacker|Hacker]]
