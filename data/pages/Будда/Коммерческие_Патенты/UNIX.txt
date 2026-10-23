@@ -19,6 +19,10 @@
   - Мой проект [[Crypter-Tools|Crypter-Tools]]
   - Мой проект [[Hacker|Hacker]]
 
+Графические пакеты:
+
+  - Firefox - https://www.firefox.com/
+
 Если нет, то добавить обязательно:
 
   - perl - https://perl.org/
