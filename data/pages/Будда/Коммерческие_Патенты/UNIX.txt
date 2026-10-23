@@ -18,3 +18,7 @@
   - cron - какая у него страница, я не знаю!
   - Мой проект [[Crypter-Tools|Crypter-Tools]]
   - Мой проект [[Hacker|Hacker]]
+
+Если нет, то добавить обязательно:
+
+  - perl - https://perl.org
