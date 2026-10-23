@@ -19,3 +19,5 @@ kunteynir
 technique
 cpanminus
 commander
+posgresql
+memcahced

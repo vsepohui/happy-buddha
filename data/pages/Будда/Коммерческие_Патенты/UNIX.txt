@@ -31,3 +31,10 @@
   - Linux Kernel - https://kernel.org/
   - gzip - https://www.gnu.org/software/gzip/
   - tar - https://www.gnu.org/software/tar/
+
+Пакеты, которые могут пригодиться Программисту:
+
+  - nginx - https://nginx.org/
+  - PosgreSQL - https://www.postgresql.org/
+  - memcahced - https://memcached.org/
+  - Redis - https://redis.io/
