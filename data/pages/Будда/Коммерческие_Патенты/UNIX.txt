@@ -21,4 +21,5 @@
 
 Если нет, то добавить обязательно:
 
-  - perl - https://perl.org
+  - perl - https://perl.org/
+  - Free Pascal - https://www.freepascal.org/
