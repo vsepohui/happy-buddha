@@ -38,3 +38,4 @@
   - PostgreSQL - https://www.postgresql.org/
   - memcahced - https://memcached.org/
   - Redis - https://redis.io/
+  - Графические редактор кода Geany - https://www.geany.org/
