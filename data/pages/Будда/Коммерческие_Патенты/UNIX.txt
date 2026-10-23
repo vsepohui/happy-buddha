@@ -8,4 +8,12 @@
 
   - xfce
   - ffmpeg
+  - espeak
+  - vim
+  - git
+  - curl
+  - make
+  - gcc
+  - cpan-minus
   - Мой проект [[Crypter-Tools|Crypter-Tools]]
+  - Мой проект [[Hacker|Hacker]]
