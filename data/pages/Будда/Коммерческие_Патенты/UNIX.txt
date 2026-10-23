@@ -40,3 +40,4 @@
   - memcahced - https://memcached.org/
   - Redis - https://redis.io/
   - Графический редактор кода Geany - https://www.geany.org/
+  - Rex - https://metacpan.org/dist/Rex
