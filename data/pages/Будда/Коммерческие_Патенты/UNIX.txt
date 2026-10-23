@@ -31,6 +31,7 @@
   - Linux Kernel - https://kernel.org/
   - gzip - https://www.gnu.org/software/gzip/
   - tar - https://www.gnu.org/software/tar/
+  - OpenSSH - https://www.openssh.org/
 
 Пакеты, которые могут пригодиться Программисту:
 
