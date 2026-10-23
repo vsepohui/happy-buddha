@@ -35,6 +35,6 @@
 Пакеты, которые могут пригодиться Программисту:
 
   - nginx - https://nginx.org/
-  - PosgreSQL - https://www.postgresql.org/
+  - PostgreSQL - https://www.postgresql.org/
   - memcahced - https://memcached.org/
   - Redis - https://redis.io/
