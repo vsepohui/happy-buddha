@@ -4,4 +4,4 @@
 
 Исходный код проекта - https://github.com/vsepohui/rupana
 
-Сайт проекта - https://rupana.rua
+Сайт проекта - https://rupana.ru
