@@ -12,5 +12,6 @@
 
 
 А добавил бы:
-  - .music - для музыканта
-  - .code - для программиста Open Source!
+  - .name - для Частный Лиц, я бы купил - ivan.name :D
+  - .music - для музыканта, я бы купил - yahwe.music
+  - .code - для программиста Open Source! Я бы купил - hacker.code первым делом!
