@@ -1,0 +1,13 @@
+====== Perllib ======
+
+Проект Perllib - это каталог бесплатных модулей к Perl, которые выкладываются в CPAN!
+
+Раз в неделю происходит добавление в каталог, если не раньше!
+
+Что я бы добавил:
+
+  - Все мои модуля от профиля TRUNAEV - https://metacpan.org/author/TRUNAEV/releases
+
+Чтобы я убрал:
+
+  - Мой старый код ITRUNAEV - https://metacpan.org/author/ITRUNAEV/releases 
