@@ -6,15 +6,15 @@
 
 Я бы одобрил:
 
-  - xfce
-  - ffmpeg
-  - espeak
-  - vim
-  - git
-  - curl
-  - make
-  - gcc
-  - cpan-minus
-  - cron
+  - xfce - https://xfce.org/
+  - ffmpeg - http://ffmpeg.org/
+  - espeak - https://espeak.sourceforge.net/
+  - vim - https://www.vim.org/
+  - git - https://git-scm.com/
+  - curl - https://curl.se/
+  - make - https://www.gnu.org/software/make/
+  - gcc - https://gcc.gnu.org/
+  - cpan-minus - https://metacpan.org/pod/App::cpanminus
+  - cron - какая у него страница, я не знаю!
   - Мой проект [[Crypter-Tools|Crypter-Tools]]
   - Мой проект [[Hacker|Hacker]]
