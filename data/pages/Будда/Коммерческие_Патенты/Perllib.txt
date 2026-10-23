@@ -11,3 +11,5 @@
 Чтобы я убрал:
 
   - Мой старый код ITRUNAEV - https://metacpan.org/author/ITRUNAEV/releases 
+
+Я бы подумал о редиректах с зоны .pl: Кто-то должен написать сервер nginx, либо CPAN-пакет с редиректером на metacpan!
