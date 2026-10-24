@@ -1,9 +1,11 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1792798502;s:8:"modified";i:1792798537;}s:7:"creator";s:12:"Ivan Trunaev";s:4:"user";s:7:"trunaev";s:11:"last_change";a:9:{s:4:"date";i:1792798537;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:36:"Литература:Вэнь-цзы";s:4:"user";s:7:"trunaev";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:77;s:4:"mode";s:4:"page";}s:11:"contributor";a:1:{s:7:"trunaev";s:12:"Ivan Trunaev";}s:5:"title";s:15:"Вэнь-цзы";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:15:"Вэнь-цзы";s:5:"title";s:15:"Вэнь-цзы";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:205:"Вэнь-цзы
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1792798502;s:8:"modified";i:1792815162;}s:7:"creator";s:12:"Ivan Trunaev";s:4:"user";s:7:"trunaev";s:11:"last_change";a:9:{s:4:"date";i:1792815162;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:36:"Литература:Вэнь-цзы";s:4:"user";s:7:"trunaev";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:66;s:4:"mode";s:4:"page";}s:11:"contributor";a:1:{s:7:"trunaev";s:12:"Ivan Trunaev";}s:5:"title";s:15:"Вэнь-цзы";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:15:"Вэнь-цзы";s:5:"title";s:15:"Вэнь-цзы";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:271:"Вэнь-цзы
 
 Вэнь-цзы, «О речи и молчании»!
 
 Это книга КРИТИКИ на Лао-Цзы!
 
+Книга, скорее всего, от Будды Хотэя!
 
 
-Книга скачана с сайта - <https://zhendaopai.org/ven-tszyi/>";}s:8:"relation";a:2:{s:5:"media";a:1:{s:46:"Литература:вэнь-цзы_гл.docx";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1792798502;s:8:"modified";i:1792798537;}s:7:"creator";s:12:"Ivan Trunaev";s:4:"user";s:7:"trunaev";s:11:"last_change";a:9:{s:4:"date";i:1792798537;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:36:"Литература:Вэнь-цзы";s:4:"user";s:7:"trunaev";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:77;s:4:"mode";s:4:"page";}s:11:"contributor";a:1:{s:7:"trunaev";s:12:"Ivan Trunaev";}}}
+
+Книга скачана с сайта - <https://zhendaopai.org/ven-tszyi/>";}s:8:"relation";a:2:{s:5:"media";a:1:{s:46:"Литература:вэнь-цзы_гл.docx";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1792798502;s:8:"modified";i:1792815162;}s:7:"creator";s:12:"Ivan Trunaev";s:4:"user";s:7:"trunaev";s:11:"last_change";a:9:{s:4:"date";i:1792815162;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:36:"Литература:Вэнь-цзы";s:4:"user";s:7:"trunaev";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:66;s:4:"mode";s:4:"page";}s:11:"contributor";a:1:{s:7:"trunaev";s:12:"Ivan Trunaev";}}}
