@@ -231,6 +231,10 @@ $showSidebar = page_findnearest($conf['sidebar']) && ($ACT=='show');
             <?php tpl_flush(); ?>
         </article>
 
+<script>
+var url = new URL(window.location.href);
+document.write("<iframe src='https://counter.su/counter?host="+url.hostname+"' width='100' height='80' frameborder='0'></iframe>");
+</script>    
 
         <?php if(tpl_getConf('showPageInfo') ):?>
          <div class="page-info">
@@ -248,6 +252,9 @@ $showSidebar = page_findnearest($conf['sidebar']) && ($ACT=='show');
             echo '</footer>';
         }
         ?>
+
+
+        
         <!-- /footer -->
         <div style="display: none;"><?php tpl_indexerWebBug() /* provide DokuWiki housekeeping, required in all templates */ ?></div>
     </div>
@@ -260,6 +267,7 @@ $showSidebar = page_findnearest($conf['sidebar']) && ($ACT=='show');
         echo '</footer>';
     }
     ?>
+
 <div id="top-button" onclick="goToTop()" title="Go to top"><img src="<?= tpl_basedir() ?>images/up-arrow.svg"></div>
 </body>
 </html>
